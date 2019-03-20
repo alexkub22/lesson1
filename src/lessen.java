@@ -3,7 +3,7 @@ public class lessen {
 //        exercise 2 Создать переменные всех пройденных типов данных, и инициализировать их значения;
 
 //byte
-        byte a= 100;
+        byte a= 10;
 //short
         short b= 20000;
 //int
